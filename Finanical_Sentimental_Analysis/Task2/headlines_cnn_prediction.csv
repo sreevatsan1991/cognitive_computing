@@ -1,0 +1,101 @@
+index,UniqueID,company,id,sentiment score,title,predicted_sentiment
+412,1239_Sage,Sage,1556,0.393,"Broker tips: RBS, Croda, Sage",-0.39842653274536133
+10,624_AstraZeneca,AstraZeneca,1154,0.35000000000000003,UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln,-0.9999995231628418
+311,908_AB InBev,AB InBev,1455,-0.015,AB InBev offers SABMiller $3 billion breakup fee,-0.8798795938491821
+129,693_CRH,CRH,1273,0.231,CRH adds CR Laurence to acquisitions tally for $1.3bn,-0.7368550300598145
+245,1118_AstraZeneca,AstraZeneca,1389,0.934,Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!,-0.8770590424537659
+302,1677_WPP,WPP,1446,-0.243,WPP shareholders should oppose company on pay at AGM - PIRC,-0.9454674124717712
+26,1147_Acerta,Acerta,1170,0.41300000000000003,AstraZeneca weighing up Acerta bid to secure blood cancer drug,-0.9999138116836548
+136,1770_Standard Life,Standard Life,1280,-0.718,Property Stocks Slump After Standard Life Freezes U.K. Fund,-0.9990273714065552
+138,399_National Grid,National Grid,1282,0.135,EU membership vital for UK's energy market - National Grid CEO Steve Holliday,-0.9979828000068665
+16,1565_Barclays,Barclays,1160,-0.496,Ex-Barclays Trader in Libor Case Says Boss Hit Him With Bat,-0.9999778866767883
+214,258_AstraZeneca,AstraZeneca,1358,0.338,AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US,-0.9994438886642456
+119,486_Tesco,Tesco PLC,1263,-0.61,PRESS: Tesco Cuts 450 Jobs As Final Homeplus Stores Closed - Sky News,-0.9987906813621521
+289,1466_Barclays,Barclays,1433,0.211,Barclays in Talks With AnaCap to Sell French Consumer Operations,-0.9753783941268921
+86,942_AB InBev,AB InBev,1230,-0.043000000000000003,AB InBev attacks SABMiller bid rebuffal,-0.9138382077217102
+261,1126_Barclays,Barclays,1405,-0.667,Industry NewsBarclays to 'cut investment bank staff by another 20%',-0.9420934319496155
+486,1716_Barclays,Barclays,1630,0.152,Exclusive: Barclays reins in foreign exchange trading before referendum result - sources,-0.9204984903335571
+106,978_Legal & General,Legal & General Group Plc,1250,-0.026000000000000002,Legal & General group chairman John Stewart to retire in 2016,-0.966871976852417
+77,224_Lloyds Banking Group plc,Lloyds Banking Group PLC,1221,0.331,3 Reasons Why Lloyds Banking Group PLC Is Worthy Of A Place In Your ISA,-0.9999666810035706
+459,989_Tullow Oil,Tullow Oil,1603,-0.066,CompaniesTullow Oil will cut expenditure further in 2016,-0.7420680522918701
+465,1337_AstraZeneca,AstraZeneca,1609,-0.375,CompaniesAstraZeneca shares hit as 2016 revenue forecast to fall,-0.8368688821792603
+92,530_Johnson Matthey,Johnson Matthey,1236,-0.40800000000000003,"Royal Mail, Johnson Matthey lead FTSE lower",-0.6723815202713013
+381,731_BHP,BHP Billiton,1525,-0.754,UPDATE 2-BHP Billiton profit dives to 10-year low on commodities rout,-0.9890421628952026
+124,548_Lehman,Lehman,1268,0.23900000000000002,UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee,-0.9269713163375854
+296,693_CR Laurence,CR Laurence,1440,0.259,CRH adds CR Laurence to acquisitions tally for $1.3bn,-0.7368550300598145
+147,936_Glencore,Glencore,1291,0.341,Glencore director puts money back on the table,-0.7919865250587463
+432,1338_Lloyds Banking Group,Lloyds Banking Group PLC,1576,-0.6960000000000001,Lloyds Banking Group reports 7% dip in annual profits,-0.9529420137405396
+34,505_HSBC,HSBC,1178,-0.384,UK stocks fall as HSBC overhaul fails to impress,-0.999255359172821
+282,146_Berkshire Hathaway,Berkshire Hathaway,1426,-0.28500000000000003,Warren Buffett vows never to spin off Berkshire Hathaway subsidiaries,-0.9574277400970459
+184,1556_Royal Mail,Royal Mail,1328,-0.084,Royal Mail gets mixed bag from Ofcom postal regulation report,-0.6012496948242188
+216,1178_Samarco,Samarco,1360,-0.209,"Samarco, Brazil government come closer on $4.8 billion dam-disaster accord",-0.8621987700462341
+8,1634_Deutsche Boerse,Deutsche Boerse,1152,-0.443,London Stock Exchange – Deutsche Boerse merger under threat from Brexit,-0.9999809861183167
+303,323_RBS,Royal Bank of Scotland Group plc,1447,-0.782,Warning as RBS slumps to £446m loss,-0.8530012369155884
+345,1735_Great Portland Estates plc,Great Portland Estates plc,1489,0.165,"Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",-0.9999193549156189
+116,417_AstraZeneca,AstraZeneca,1260,0.405,Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,-0.9999911189079285
+463,567_Diageo,Diageo,1607,0.442,Britain's FTSE recovers two-month low after Diageo shares rally on bid report,-0.9999988079071045
+157,551_Tesco,Tesco PLC,1301,-0.464,"Tesco is the worst big supermarket for treating suppliers fairly, according to ...",-0.9230140447616577
+101,412_GlaxoSmithKline,GlaxoSmithKline,1245,0.229,"GlaxoSmithKline targets growth across units, scraps ViiV IPO",-0.704696536064148
+171,1602_EasyJet,EasyJet,1315,0.1,EasyJet to turn away 'have a go' fliers who arrive less than 30 minutes early,-0.872414231300354
+177,1622_Standard Life,Standard Life,1321,0.08,Standard Life chief agrees £600000 bonus cut,-0.8450226187705994
+176,362_Pearson,Pearson,1320,-0.466,LA Schools to Drop Pearson Products Under Ambitious Technology Plan,-0.7556828856468201
+375,1730_Barclays,Barclays,1519,-0.611,3 ex-Barclays traders convicted over Libor rigging,-0.9994028806686401
+237,751_BHP,BHP Billiton,1381,-0.518,"BHP, Glencore Head Tumbling Miners as Commodity Rout Deepens",-0.6823718547821045
+321,590_Johnson Matthey,Johnson Matthey,1465,0.281,Johnson Matthey raises prospect of investor payout,-0.43084630370140076
+475,642_Barclays,Barclays,1619,-0.277,Understated approach of Jenkins failed to win Barclays board over,-0.9543381929397583
+227,1224_Asahi,Asahi,1371,0.20600000000000002,Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri,-0.9997902512550354
+194,922_Glencore,Glencore,1338,0.162,"METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally",-0.9590685963630676
+187,981_Samarco,Samarco,1331,-0.637,BHP Billiton share price: Brazil to sue Samarco for £3.5bn,-0.9437101483345032
+405,1360_Centrica PLC,Centrica PLC,1549,0.403,Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),-0.9999555349349976
+252,1634_London Stock Exchange,London Stock Exchange Group,1396,-0.421,London Stock Exchange – Deutsche Boerse merger under threat from Brexit,-0.9999809861183167
+120,1440_Barclays,Barclays,1264,0.0,"Barclays gives top bosses, including new chief executive Jes Staley, £8.7m in shares",-0.9768082499504089
+326,1330_Barclays,Barclays,1470,0.0,Next Barclays Investment Banking Chief May Signal Staley's Strategy,-0.6942934989929199
+217,1754_Perssimon,Persimmon,1361,0.339,"UK housing market steadies after Brexit dip, Persimmon says",-0.9996479749679565
+437,1118_Dixons Carphone,Dixons Carphone,1581,0.766,Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!,-0.8770590424537659
+192,2_Tesco,Tesco PLC,1336,0.18,Tesco takes fight to discounters with price cuts on brands,-0.9999964833259583
+201,167_BP,BP,1345,0.671,BP boosts FTSE towards four and a half month high,-0.9855055809020996
+366,1536_Uinilever,Unilever,1510,0.114,Volumes up and turnover down at Unilever,-0.9518473148345947
+117,675_Shell,Shell,1261,-0.5740000000000001,Shell to Cut 6500 Jobs as Profit Drops,-0.9999977946281433
+76,1589_ShelL,ShelL,1220,-0.222,Shell's job losses now equal Facebook's entire payroll,-0.4129624664783478
+178,1173_BP,BP,1322,-0.736,BP to slash 4000 jobs globally as oil prices drop,-0.9874794483184814
+247,1412_Prudential,Prudential,1391,0.582,Britain's FTSE gets lift from Prudential results,-0.9383739829063416
+451,1315_Meggitt,Meggitt,1595,-0.302,CompaniesMeggitt profits hit by weak energy and military markets,-0.9958208799362183
+315,838_Glencore,Glencore,1459,-0.597,"FTSE 100 drops 2.5 pct on Glencore, metals price fears",-0.999756932258606
+19,275_MOVANTIK,MOVANTIK,1163,0.454,AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US,-0.9991088509559631
+264,640_Britvic,Britvic,1408,0.34400000000000003,Britvic steps up overseas expansion with Brazilian acquisition,-0.5111160278320312
+14,91_ITV,ITV,1158,0.251,ITV backs Carl Frampton to revive the glory days,-0.41219067573547363
+424,1073_Barclays,Barclays,1568,0.14100000000000001,Barclays sells benchmark indices unit to Bloomberg,-0.8906866908073425
+125,914_AB InBev,AB InBev,1269,0.163,AB InBev ups offer for SABMiller as deadline looms,-0.9999522566795349
+439,1188_RBS,Royal Bank of Scotland Group plc,1583,-0.651,RBS Shares Drop After Surprise Pension Charge Cuts Capital,-0.9997676610946655
+478,1708_Giraffe,Giraffe,1622,-0.221,"Tesco set to sell Kipa, Giraffe businesses - Sky News",-0.9861528873443604
+421,1570_Easyjet,Easyjet,1565,-0.05,Glasgow EasyJet flight forced to divert because of rowdy passengers' antics,-0.6946758031845093
+142,870_Glencore,Glencore,1286,-0.971,Glencore shares in record crash as profit fears grow,-0.9580368995666504
+454,1389_Barclays,Barclays,1598,-0.128,Barclays To Pay Ousted Boss £500000 Bonus,-0.9008461833000183
+287,686_Rio Tinto,Rio Tinto,1431,0.0,Rio Tinto CEO says iron ore market at equilibrium,-0.9891449213027954
+450,174_British American Tobacco,British American Tobacco plc,1594,-0.598,"UPDATE: British American Tobacco 2014 Profit Drops, Difficult 2015 Ahead",-0.9932725429534912
+226,1715_Morrisons,Morrisons,1370,0.055,Morrisons offers to rehire staff from under-threat My Local chain,-0.6917978525161743
+80,1750_M&G,M&G Investments,1224,-0.807,"Aviva, M&G suspend property funds as investors panic",-0.8197247982025146
+320,1308_HSBC,HSBC,1464,-0.835,HSBC Reaches $470 Million Accord Over Foreclosure Abuses,-0.7438489198684692
+162,36_Unilever,Unilever,1306,0.213,Unilever profit rises despite sales slump in China,-0.8835373520851135
+272,265_Lloyds,Lloyds Banking Group PLC,1416,0.137,UK to raise 9 billion pounds through Lloyds share sales,-0.9999963045120239
+380,1516_Shire,Shire,1524,0.224,Shire Sees Baxalta Deal Closing as Expected After New Rules,-0.8270670175552368
+382,1463_ITV,ITV,1526,0.422,ITV share price: Group mulls takeover of Canada's Entertainment One,-0.9999783039093018
+143,60_Ocwen,Ocwen,1287,0.171,Ocwen Reaches Settlement With California Regulator,-0.45025068521499634
+48,1301_Glencore,Glencore,1192,-0.522,Glencore posts 5.7 pct fall in Q4 copper output,-0.9568027257919312
+275,539_Sainsbury,Sainsbury's,1419,-0.303,Sainsbury sales slip again as price pressures take a toll,-0.9617655873298645
+98,1764_Persimmon,Persimmon,1242,0.435,Builder Persimmon hails 6% rise in house sales,-0.8266448974609375
+4,971_Barclays,Barclays,1148,-0.834,Barclays faces another heavy forex fine,-0.6702247858047485
+137,1660_London Stock Exchange,London Stock Exchange Group,1281,0.41600000000000004,Shareholder advisory groups back London Stock Exchange merger,-0.9253748059272766
+346,614_Zurich Insurance,Zurich Insurance,1490,0.25,Zurich Insurance Considering Offer for UK Rival RSA Insurance,-0.9322147369384766
+45,318_BG,BG Group,1189,-0.209,Shell's $70 Billion BG Deal Meets Shareholder Skepticism,-0.7920363545417786
+31,1080_Morrisons,Morrisons,1175,-0.852,CompaniesMorrison evicted from FTSE 100 as Worldpay joins,-0.9350470304489136
+327,1441_Old Mutual,Old Mutual,1471,0.911,Old Mutual shares soar on break-up report,-0.9969885349273682
+418,1069_Old Mutual,Old Mutual,1562,0.25,Industry NewsOld Mutual appoints former SA finance minister as non-exec director,-0.7574144005775452
+257,1394_Aviva,Aviva plc,1401,0.9460000000000001,Aviva posts forecast-beating 2015 operating profit of $3.8 bln,-0.9689015746116638
+449,303_Glaxo,Glaxo,1593,0.322,Glaxo gets OK to expand marketing of inhaler drug,-0.736261785030365
+185,383_Shire,Shire,1329,0.336,Shire dry eye drug fast-tracked by FDA,-0.6328375935554504
+397,1112_Tesco,Tesco PLC,1541,-0.604,CompaniesTesco off to a bad start over Xmas – Kantar,-0.7192161679267883
+444,1168_Shire,Shire,1588,0.28700000000000003,Shire says internal synergy goals from Baxalta deal higher,-0.7125004529953003
+474,1224_SABMiller,SABMiller,1618,0.23600000000000002,Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri,-0.9997902512550354
+344,1505_Tesco,Tesco PLC,1488,0.218,"Tesco returns to profit, but City demands more",-0.9469276666641235
+2,252_Prudential,Prudential,1146,-0.651,UK's FTSE has worst day so far in 2015 as BG and Prudential fall,-0.9976391792297363
